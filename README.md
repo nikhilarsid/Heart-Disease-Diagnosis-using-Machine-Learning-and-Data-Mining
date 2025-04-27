@@ -1,6 +1,6 @@
 # Heart Disease Diagnosis using Machine Learning and Data Mining
 
-![image]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK8mz8O30blIsd_JHEc8mCjy2d8CyLOjJrg&s](https://www.hopkinsmedicine.org/-/media/images/health/3_-wellness/heart-health/man-heart-attack-hero.jpg?h=500&iar=0&mh=500&mw=1300&w=1297&hash=25DCCBEDC16443AE7B040D6CA5BD6BE4))
+![image](https://www.hopkinsmedicine.org/-/media/images/health/3_-wellness/heart-health/man-heart-attack-hero.jpg?h=500&iar=0&mh=500&mw=1300&w=1297&hash=25DCCBEDC16443AE7B040D6CA5BD6BE4)
 
 ## Project Overview
 
