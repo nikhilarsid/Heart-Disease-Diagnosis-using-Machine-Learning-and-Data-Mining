@@ -1,6 +1,6 @@
 # Heart Disease Diagnosis using Machine Learning and Data Mining
 
-![image]([[[https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg]](https://www.google.com/imgres?q=heart%20disease%20images&imgurl=https%3A%2F%2Fmedlineplus.gov%2Fimages%2FHeartDiseases_share.jpg&imgrefurl=https%3A%2F%2Fmedlineplus.gov%2Fheartdiseases.html&docid=WurBejjL5epHsM&tbnid=r8XC-8fn0d96BM&vet=12ahUKEwiF8Z3OxPiMAxWmZ0EAHTCjIAg4FBAzegQIAxAA..i&w=4096&h=2730&hcb=2&ved=2ahUKEwiF8Z3OxPiMAxWmZ0EAHTCjIAg4FBAzegQIAxAA)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbMW28dwjCIHRxk8Nm3YgqZHBisy7ilFdYZw&s))
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK8mz8O30blIsd_JHEc8mCjy2d8CyLOjJrg&s)
 
 ## Project Overview
 
