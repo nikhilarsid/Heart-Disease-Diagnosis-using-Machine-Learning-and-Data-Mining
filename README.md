@@ -1,5 +1,7 @@
 # Heart Disease Diagnosis using Machine Learning and Data Mining
 
+![image]([https://www.synergysuite.com/wp-content/uploads/2023/07/restaurant-food-delivery-2-1024x576.jpg](https://unsplash.com/photos/doctor-and-nurse-during-operation-z8ofh6Zkn4k?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash))
+
 ## Project Overview
 
 This repository contains the complete code, data analysis process, and machine learning models developed for my MSc Dissertation project titled "Heart Disease Diagnosis using Machine Learning and Data Mining."
