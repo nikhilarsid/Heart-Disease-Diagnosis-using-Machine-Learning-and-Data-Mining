@@ -1,5 +1,3 @@
-Certainly! Here's a polished, clear, and engaging version of your README file for the Heart Disease Diagnosis project:
-
 ---
 
 # ❤️ Heart Disease Diagnosis using Machine Learning and Data Mining
@@ -106,5 +104,3 @@ With expertise in SQL, Python, and data modeling, I enjoy tackling real-world ch
 Let’s connect and grow our data skills together!
 
 ---
-
-Would you like me to help add sections like *Installation Instructions* or *How to Use the GUI* as well?
