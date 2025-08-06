@@ -112,10 +112,11 @@ Feature Importance Analysis:
 
 Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tkinter
 
-## Author
+### 🌟 About Me
 
-Daniel Toluwani Adeleke 
-MSc Data Science & Business Analytics 
-University of Plymouth 
-Supervised by: Dr. Raphael Stuhlmeier 
-Year: 2024
+Hi! I’m **Daniel Toluwani Adeleke** — a passionate Data Scientist and IT professional with a strong background in Computer Science and Data Science & Business Analytics.  
+I specialize in building end-to-end data solutions, from designing robust data warehouses to crafting insightful analytics that empower data-driven decision-making.
+
+With hands-on experience in SQL, Python, and data modeling, I enjoy sharing knowledge, solving real-world business challenges, and continuously learning innovative ways to turn raw data into valuable insights.
+
+Let’s connect and grow our data skills together!
