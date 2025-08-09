@@ -1,7 +1,8 @@
----
-
 # ❤️ Heart Disease Diagnosis using Machine Learning and Data Mining
-
+[![Author](https://img.shields.io/badge/Author-dannydave-blue)](https://github.com/dannydave)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+![GitHub last commit](https://img.shields.io/github/last-commit/dannydave/PROJ518?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/dannydave/PROJ518?color=green)
 ![Heart Health](https://www.hopkinsmedicine.org/-/media/images/health/3_-wellness/heart-health/man-heart-attack-hero.jpg?h=500\&iar=0\&mh=500\&mw=1300\&w=1297\&hash=25DCCBEDC16443AE7B040D6CA5BD6BE4)
 
 ## 📋 Project Overview
@@ -94,13 +95,13 @@ Python | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | Tkinter
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-Hi! I’m **Daniel Toluwani Adeleke**, a passionate Data Scientist and IT professional with a strong foundation in Computer Science and Data Science & Business Analytics.
-I specialize in creating end-to-end data solutions — from building robust data warehouses to developing insightful analytics that empower data-driven decisions.
+I’m **Daniel Toluwani Adeleke**, a Data Scientist & IT professional with a passion for building **end-to-end data solutions**.
+I hold a **BSc in Computer Science** and an **MSc in Data Science & Business Analytics**. My expertise includes SQL, Python, Machine Learning, and BI reporting.
 
-With expertise in SQL, Python, and data modeling, I enjoy tackling real-world challenges and continuously exploring new ways to transform raw data into impactful insights.
-
-Let’s connect and grow our data skills together!
+📧 **Email:** [dannydave1000@gmail.com](mailto:dannydave1000@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/dannydave](https://www.linkedin.com/in/leke98)
+🌐 **Portfolio:** [dannydave.my_portfolio.github.io](https://dannydave.github.io/my_portfolio.github.io/)
 
 ---
